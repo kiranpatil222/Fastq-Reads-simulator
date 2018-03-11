@@ -1,0 +1,32 @@
+# Summary Numbers. Use `grep ^SN | cut -f 2-` to extract this part.
+SN	raw total sequences:	100000
+SN	filtered sequences:	0
+SN	sequences:	100000
+SN	is sorted:	0
+SN	1st fragments:	100000
+SN	last fragments:	0
+SN	reads mapped:	100000
+SN	reads mapped and paired:	0	# paired-end technology bit set + both mates mapped
+SN	reads unmapped:	0
+SN	reads properly paired:	0	# proper-pair bit set
+SN	reads paired:	0	# paired-end technology bit set
+SN	reads duplicated:	0	# PCR or optical duplicate bit set
+SN	reads MQ0:	0	# mapped and MQ=0
+SN	reads QC failed:	0
+SN	non-primary alignments:	0
+SN	total length:	5000000	# ignores clipping
+SN	bases mapped:	5000000	# ignores clipping
+SN	bases mapped (cigar):	5000000	# more accurate
+SN	bases trimmed:	0
+SN	bases duplicated:	0
+SN	mismatches:	75018	# from NM fields
+SN	error rate:	1.500360e-02	# mismatches / bases mapped (cigar)
+SN	average length:	50
+SN	maximum length:	50
+SN	average quality:	23.3
+SN	insert size average:	0.0
+SN	insert size standard deviation:	0.0
+SN	inward oriented pairs:	0
+SN	outward oriented pairs:	0
+SN	pairs with other orientation:	0
+SN	pairs on different chromosomes:	0
